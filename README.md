@@ -19,7 +19,7 @@ Este é um projeto em Java que implementa um sistema de cadastro de funcionário
 ## Imagens
 
 - Tela Inicial
-https://github.com/Almeida63/sistema-cadastro-funcionario-mvc-swing/issues/1#issuecomment-2389975285
+![TelaInicial](https://github.com/user-attachments/assets/0b52fa56-bdfa-4d9c-824b-89217e491d26)
 
 - Tela Cadastro
 https://github.com/Almeida63/sistema-cadastro-funcionario-mvc-swing/issues/1#issuecomment-2389976200
